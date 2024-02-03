@@ -1,0 +1,11 @@
+name = input("Enter your name? ")
+age = input("Enter your age? ")
+money = input("How much money do you have? ")
+happy = input("Are you happy? ")
+
+print("################")
+print("Hello " + name)
+print("You are young!!: " + age)
+print("Oh rich boy: " + money)
+print("You seem happy: " + happy)
+print("################")
